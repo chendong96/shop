@@ -45,7 +45,7 @@
                                              <goal>repackage</goal>
                                            </goals>
                                            <configuration>
-                                             <mainClass>com.example.demo.HelloWorldApplication</mainClass>
+                                             <mainClass>HelloWorldApplication</mainClass>
                                            </configuration>
                                          </execution>
                                       </executions>
